@@ -1,16 +1,25 @@
-### Hi there 👋
+ <h1 align="center">Hi 👋, I'm Tech Rohit </h1>
 
-<!--
-**rhtmahour/rhtmahour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Flutter 
+- 📫 How to reach me: rhtmahour@gmail.com
+- 😄 My website: https://coming soon
+- ⚡ Fun fact: later
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/rhtmahour">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### Languages and Tools:
+<div id="tools">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,flutter,dart" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+⭐️ From [rhtmahour](https://github.com/rhtmahour)
