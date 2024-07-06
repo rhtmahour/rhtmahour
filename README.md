@@ -17,7 +17,7 @@
 ### Languages and Tools:
 <div id="tools">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,flutter,dart" />
+    <img src="https://skillicons.dev/icons?i=git,flutter,dart,firebase,gcp" />
   </a>
 </div>
 
