@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Tech Rohit </h1>
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently learning Devops
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: rhtmahour@gmail.com
 - 😄 My website: https://coming soon
