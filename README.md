@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhtmahour" alt="rhtmahour" /></a> </p>
 
-- 🔭 I’m currently working on Flutter and Dart [go90Stores](https://github.com/rhtmahour/go90Stores.git)
-
 - 🌱 I’m currently learning **Devops**
 
 - 🤝 I’m looking for help with [go90mart](https://github.com/rhtmahour/go90mart.git)
