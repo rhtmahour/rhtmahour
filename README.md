@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 🤝 I’m looking for help with [go90mart](https://github.com/rhtmahour/go90mart.git)
-
 - 👨‍💻 All of my projects are available at [https://github.com/rhtmahour?tab=repositories](https://github.com/rhtmahour?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rohit-mahour-93869ab2/](https://www.linkedin.com/in/rohit-mahour-93869ab2/)
